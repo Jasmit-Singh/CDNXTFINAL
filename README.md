@@ -1,6 +1,6 @@
 Code Next Final Project: "The Ultimate Schedule":
 ==========================
-As schools shift towards a virtual setting, "The Ultimate Schedule" addresses the lack of attention given towards time both prior and in between consecutives meetings. The following presentation explains my journey through the design process, my design sketches, CUI, wireframing, and iteration.
+As schools shift towards a virtual setting, "The Ultimate Schedule" addresses the lack of attention given towards time both prior and in between consecutives meetings. Addressing struggles in organizing meeting links from multiple platforms and being on time, "The Ultimate Schedule" does it all. The following presentation explains my journey through the design process, my design sketches, CUI, wireframing, and iteration.
 
 Presentation:
 ======
